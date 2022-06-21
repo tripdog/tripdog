@@ -1,6 +1,12 @@
 Hi 👋 My name is Tom Phillips
 =============================
-I specialize in helping small businesses and non-profits grow by creating digital tools that automate, organize and track interactions with their clients.* 🌍  I'm based in San Diego* ✉️  You can contact me at [info@atomicpx.com](mailto:info@atomicpx.com)* 🚀  I'm currently working on [A Dog Rescue Website](http://thomasp62.sg-host.com)* 🧠  I'm learning Vue.js* 🤝  I'm open to collaborating on Projects that help people in meaningful ways.* ⚡  I love Jeeps, hiking and dogs.
+I specialize in helping small businesses and non-profits grow by creating digital tools that automate, organize and track interactions with their clients.* 
+
+🌍  I'm based in San Diego, California
+* ✉️  You can contact me at [info@atomicpx.com](mailto:info@atomicpx.com)
+* 🚀  I'm currently working on [A Dog Rescue Website](http://thomasp62.sg-host.com)
+* 🧠  I'm learning Vue.js* 🤝  I'm open to collaborating on Projects that help people in meaningful ways. 
+* ⚡  I love Jeeps, hiking and dogs.
 
 <a href="https://www.twitter.com/tripdog" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/tripdog?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
