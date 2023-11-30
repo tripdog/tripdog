@@ -8,8 +8,7 @@ I specialize in helping small businesses and non-profits grow by creating digita
 * 🧠  I'm learning Vue.js* 🤝  I'm open to collaborating on Projects that help people in meaningful ways. 
 * ⚡  I love Jeeps, hiking and dogs.
 
-<a href="https://www.twitter.com/tripdog" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/tripdog?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
+Twitter is dead to me.
 
 ### Skills
 
