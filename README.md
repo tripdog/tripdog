@@ -4,7 +4,7 @@ I specialize in helping small businesses and non-profits grow by creating digita
 
 🌍  I'm based in San Diego, California
 * ✉️  You can contact me at [info@atomicpx.com](mailto:info@atomicpx.com)
-* 🚀  I'm currently working on [A Dog Rescue Website](http://thomasp62.sg-host.com)
+* 🚀  I'm currently working on a chat bot via Code Ninja :-)
 * 🧠  I'm learning Vue.js* 🤝  I'm open to collaborating on Projects that help people in meaningful ways. 
 * ⚡  I love Jeeps, hiking and dogs.
 
